@@ -32,6 +32,11 @@
     background-color: #ffffff;
 }
 
+.imgSectionOne {
+    width: 600px;
+    border-radius: 50%;
+    }
+
 .titleSectionOne {
     color: #0f7645;
     font-size: 50px;
