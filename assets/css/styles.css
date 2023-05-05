@@ -1,0 +1,234 @@
+.backgoundColorNav {
+    background-color: #49644f;
+    color: white;
+}
+
+.textNav {
+    color: white !important;
+    font-size: 25px;
+}
+
+.nav-item {
+    padding: 0px 10px;
+}
+
+.navbar {
+    padding: 50px 100px;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+}
+
+.divLogo {
+  padding-right: 50px;  
+}
+
+.heightFull {
+    height: 100vh;
+}
+
+.sectionOne {
+    padding-top: 250px;
+    background-color: #ffffff;
+}
+
+.titleSectionOne {
+    color: #0f7645;
+    font-size: 50px;
+    font-weight: 600;
+    margin-bottom: 34px;
+}
+
+.subTitleSectionOne {
+    color: #0f7645;
+    font-size: 30px;
+    margin: 0px;
+    margin-bottom: 34px
+}
+
+.divContentSection {
+    padding: 0px 100px;
+}
+
+.divImgSectionOne {
+    float: right;
+}
+
+.BtnSectionOneContato {
+    background-color: #00bec9;
+    border: none;
+    padding: 17px 25px;
+    font-size: 20px;
+    font-weight: 600;
+    margin-right: 30px;
+
+}
+
+.BtnSectionOneNossoEspaco {
+    padding: 17px 25px;
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+.DivTextSectionOne {
+    margin-right: 40px;
+}
+
+.sectionTwo {
+    padding-top: 250px;
+    background-color: #687B6C;
+}
+
+.BtnSectionTwo {
+    background-color: #00bec9;
+    border: none;
+    padding: 17px 25px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.titleSectionTwo {
+    color: #ffffff;
+    font-size: 50px;
+    font-weight: 600;
+    margin-bottom: 34px;
+}
+
+.subTitleSectionTwo {
+    color: #ffffff;
+    font-size: 30px;
+    margin: 0px;
+    margin-bottom: 34px
+}
+
+.yellowSquareSectionTwo {
+    background-color: #fcc302;
+    width: 250px;
+    height: 250px;
+    margin: 0px -35px -35px;
+    position: absolute;
+    bottom: 0px;
+}
+
+.yellowBackSectionTwo {
+    background-color: #fcc302;
+    width: 550px;
+}
+
+.imgSectionTwo {
+    opacity: 0.7;
+    width: 100%;
+}
+
+.paddingFirstColSectionTwo {
+    padding-right: 100px;
+}
+
+.titleSectionThree {
+    font-size: 65px;
+    font-weight: 700;
+    margin-bottom: 34px;
+    color: #0f7645;
+}
+
+.subTitleSectionThree {
+    font-size: 30px;
+    margin-bottom: 34px;
+    color: #0f7645;
+}
+
+.imgSectionThree {
+    width: 350px;
+    padding: 5px;
+    background-color: #0f7645;
+    margin-bottom: 40px;
+}
+
+.colImgSectionThree {
+    text-align: -webkit-center;
+}
+
+.titleImgSectionThree {
+    color: #0f7645;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.subTitleImgSectionThree {
+    color: #0f7645;
+    font-size: 25px;
+    margin: 10px;
+}
+
+    .textWebCenter {
+        text-align: -webkit-center;
+    }
+
+.CardSectionFour {
+    width: 261px;
+    margin: 20px;
+    padding: 5px;
+    background-color: #EEEFEA;
+
+}
+
+.titleCard {
+    font-size: 17px;
+    font-weight: 700;
+    color: #0f7645;
+}
+
+.textCard {
+    font-size: 15px;
+    font-weight: 500;
+    color: #0f7645;  
+}
+
+.allTextsCard {
+    padding: 20px;
+}
+
+.divImgSectionFive {
+    background-image: url("../images/fotoCapa.jpg");
+    height: 575px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+
+.divYellowSectionFive {
+    width: 100%;
+    height: 100%;
+    background-color: #687B6C;
+    opacity: 0.7;
+    position: relative;
+}
+
+.divItensSectionFive {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+.titleSectionFive {
+    font-size: 40px;
+    color: #ffffff;
+    font-weight: 400;
+    margin: 30px 0px 0px;
+}
+
+.textSectionFive {
+    font-size: 30px;
+    color: #ffffff;
+    font-weight: 300;
+}
+
+.divPaddingSectionFive {
+    padding: 0px 60px;
+}
